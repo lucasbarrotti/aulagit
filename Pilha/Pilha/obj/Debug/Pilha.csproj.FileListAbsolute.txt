@@ -1,0 +1,6 @@
+c:\users\lucas barrotti\documents\visual studio 2013\Projects\Pilha\Pilha\bin\Debug\Pilha.exe.config
+c:\users\lucas barrotti\documents\visual studio 2013\Projects\Pilha\Pilha\bin\Debug\Pilha.exe
+c:\users\lucas barrotti\documents\visual studio 2013\Projects\Pilha\Pilha\bin\Debug\Pilha.pdb
+c:\users\lucas barrotti\documents\visual studio 2013\Projects\Pilha\Pilha\obj\Debug\Pilha.csprojResolveAssemblyReference.cache
+c:\users\lucas barrotti\documents\visual studio 2013\Projects\Pilha\Pilha\obj\Debug\Pilha.exe
+c:\users\lucas barrotti\documents\visual studio 2013\Projects\Pilha\Pilha\obj\Debug\Pilha.pdb
